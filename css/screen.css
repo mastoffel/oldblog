@@ -43,7 +43,7 @@ a:hover {
 }
 
 a:visited {
-  color: black;
+  color: green;
 }
 
 table {
@@ -68,8 +68,8 @@ ul.posts {
 
   ul.posts span {
     color: #aaa;
-    font-family: Monaco, "Courier New", monospace;
-    font-size: 80%;
+    font-family: Arial, "Helvetica", monospace;
+    font-size: 90%;
   }
 
 /*****************************************************************************/
