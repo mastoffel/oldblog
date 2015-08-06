@@ -1,0 +1,10 @@
+# Site settings
+title: wei wu wei
+email: martin.adam.stoffel@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Those who flow as life flows...
+url: "https://mastoffel.github.io/" # the base hostname & protocol for your site
+github_username:  mastoffel
+
+# Build settings
+markdown: kramdown
