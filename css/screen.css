@@ -35,15 +35,15 @@ p {
 }
 
 a {
-  color: #00a;
+  color: #aaa;
 }
 
 a:hover {
-  color: black;
+  color: green;
 }
 
 a:visited {
-  color: #a0a;
+  color: black;
 }
 
 table {
@@ -87,18 +87,19 @@ ul.posts {
 }
 
 .title {
-  color: #a00;
+  color: #aaa;
+  font-size: 120%;
   font-weight: bold;
   margin-bottom: 2em;
 }
 
   .site .title a {
-    color: #a00;
+    color: #aaa;
     text-decoration: none;
   }
 
   .site .title a:hover {
-    color: black;
+    color: green;
   }
 
   .site .title a.extra {
@@ -118,7 +119,7 @@ ul.posts {
   .site .footer {
     font-size: 80%;
     color: #666;
-    border-top: 4px solid #eee;
+    border-top: 1px solid #eee;
     margin-top: 2em;
     overflow: hidden;
   }
