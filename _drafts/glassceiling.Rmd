@@ -8,7 +8,6 @@ output: html_document
 
 # the glass ceiling
 
-why do we still
-question what is no longer
+why do we still  
+question what is no longer  
 unknown
-  
