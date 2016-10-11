@@ -8,7 +8,7 @@ github_username:  mastoffel
 
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
   extensions: ["tables", "fenced_code_blocks"]
 highlighter: rouge
