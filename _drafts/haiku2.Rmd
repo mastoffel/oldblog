@@ -1,0 +1,11 @@
+---
+title: "haiku2"
+author: "MS"
+layout: post
+output: html_document
+---
+
+
+try
+or not to try
+a jekyll blog
