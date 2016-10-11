@@ -11,4 +11,4 @@ github_username:  mastoffel
 markdown: redcarpet
 redcarpet:
   extensions: ["tables", "fenced_code_blocks"]
-highlighter: pygments
+highlighter: rouge
